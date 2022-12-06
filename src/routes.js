@@ -2,7 +2,6 @@
 export const Routes = {
     // pages
     DashboardOverview: { path: "/" },
-    DashboardOverview: { path: "/dashboard" },
     Transactions: { path: "/transactions" },
     Settings: { path: "/settings" },
     Upgrade: { path: "/upgrade" },
